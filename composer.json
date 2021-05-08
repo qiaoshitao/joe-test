@@ -1,6 +1,7 @@
 {
     "name": "qiaoshitao/joe-test",
     "description": "this is a test",
+    "license": "MIT",
     "authors": [
         {
             "name": "qiaoshitao",
